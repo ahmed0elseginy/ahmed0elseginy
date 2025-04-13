@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed El-Seginy</h1>
-<h3 align="center">Software Engineer | Java Developer</h3>
-
-- 🔭 I'm currently studying at **New Cairo Technological University (NCTU)**  
-
-- 🍃 Currently learning **Spring Framework**  
-
-- 👯 Looking to collaborate on **Quantum Physics**  
-
-- 🤝 Seeking help with **Career Advancement**  
-
-- 💬 Ask me about **anything in Computer Science**  
-
-- 📫 How to reach me: **ahmed0elseginy@gmail.com**  
-
-- ⚡ Fun fact: **I sometimes feel I'm too young to be learning all this! 😅**  
+<h3 align="center"> Software Engineer | Java Developer (Spring) </h3>
 
 ---
 
+### 🧠 About Me
+- 🎓 Pursuing a **Bachelor's in Information and Communications Technology** at **New Cairo Technological University**  
+- 💻 Passionate about **Backend Development**, building RESTful APIs and scalable systems using **Java & Spring Boot**
+- 🔧 Hands-on experience with **Spring Security**, **JWT**, **Event-Driven Architecture**, and **CI/CD pipelines**
+- 📚 Always learning and applying **Clean Code**, **SOLID principles**, and **Software Architecture** best practices
+- 🤝 Open to collaboration on **backend-focused projects**, hackathons, or open-source contributions
+- 💬 Ask me about **Java, Spring Boot, REST APIs, or Backend Architecture**
+- 📫 How to reach me: **ahmed0elseginy@gmail.com**
+- ⚡ Fun fact: **I embrace being on the younger side in the development community!**
+
+---
+
+### 🔗 Connect with Me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -27,22 +26,27 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Skills & Tools
 <p align="left">
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ahmed0elseginy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" /></a></p><br><br>
+### ☕ Support Me
+<p>
+  <a href="https://www.buymeacoffee.com/ahmed0elseginy">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" />
+  </a>
+</p>
