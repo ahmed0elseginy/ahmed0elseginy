@@ -3,18 +3,6 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
-- 💻 Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
-- 🔐 Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
-- 🧼 I value writing **Clean Code**, following **SOLID principles**, and practicing **Scalable Software Architecture**
-- 🤝 Open for **collaborations**, open-source contributions, and hackathons
-- 💬 Ask me about **Java, Spring Boot, React, TypeScript, or backend architecture**
-- 📫 Reach me at: **ahmed0elseginy@gmail.com**
-- ⚡ Fun fact: I believe curiosity is my biggest fuel 🔥
-
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
   <!-- Backend -->
