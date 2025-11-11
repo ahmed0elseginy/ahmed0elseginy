@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed El-Seginy</h1>
-<h3 align="center">💻 Software Engineer | Java & Fullstack Developer</h3>
+<h3 align="center"> Software Engineer
 
 ---
 ### 🧠 About Me
