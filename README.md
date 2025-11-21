@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed El-Seginy</h1>
-<h3 align="center"> Software Engineer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
----
-###   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />   About Me
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
-- 🎓 Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
-- 🔐 Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
-- 🧼 I value writing **Clean Code**, following **SOLID principles**, and practicing **Scalable Software Architecture**
-- 🤝 Open for **collaborations**, open-source contributions, and hackathons
-- 💬 Ask me about **Java, Spring Boot, React, TypeScript, or backend architecture**
-- 📫 Reach me at: **ahmed0elseginy@gmail.com**
-- ⚡ Fun fact: I believe curiosity is my biggest fuel 🔥
+<h1 align="center">Hi, I'm Ahmed Mohamed El-Seginy</h1>
+<h3 align="center"> Software Engineer 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> </h3>
+  
 ---
 
-### 🛠️ Languages & Tools
+### About Me 
+- Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
+- Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
+- Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
+- I value writing **Clean Code**, following **SOLID principles**, and practicing **Scalable Software Architecture**
+- Open for **collaborations**, open-source contributions, and hackathons    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
+- Ask me about **Java, Spring Boot, React, TypeScript, or backend architecture**
+- Reach me at: **ahmed0elseginy@gmail.com**
+- ⚡ Fun fact: I believe curiosity is my biggest fuel    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>  
+---
 <p align="center">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -41,10 +42,13 @@
 </p>
 
 ---
-
-### ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/ahmed0elseginy" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  
+  <b><i>Code. Create. Conquer. I'm ALL IN for the Tech Revolution!</i></b>  
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
