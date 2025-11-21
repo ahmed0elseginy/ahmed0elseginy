@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer
 
 ---
-### 🧠 About Me
+###   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />   About Me
 - 💻 Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
 - 🎓 Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
 - 🔐 Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
