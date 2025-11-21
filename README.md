@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed El-Seginy</h1>
-<h3 align="center"> Software Engineer
-
+<h3 align="center"> Software Engineer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
 ---
 ###   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />   About Me
-- 💻 Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
 - 🎓 Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
 - 🔐 Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
 - 🧼 I value writing **Clean Code**, following **SOLID principles**, and practicing **Scalable Software Architecture**
