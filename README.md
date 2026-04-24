@@ -10,19 +10,20 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
-- Backend Developer focused on building **scalable systems** using **Java, Spring Boot, Spring Security, JPA, and Microservice Architecture**
-- Expanding into **Fullstack Development** with **React, Next.js, TypeScript, and Node.js**
-- Student at **New Cairo Technological University**, specializing in **Information and Communications Technology**
-- Hands-on experience with **JWT Authentication**, **REST APIs**, **Docker**, **CI/CD**, **Messaging Systems**, and **Event-Driven Architecture**
-- Strong interest in **System Design**, **Clean Code**, **SOLID Principles**, and maintainable enterprise applications
-- Built real-world style projects such as **Property Management Systems**, **Task Management Platforms**, and modular backend systems
-- Open to **collaborations**, open-source contributions, internships, and challenging projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="28" />
-- Ask me about **Java, Spring Boot, Backend Architecture, React, or scalable application design**
+- Software Engineer focused on building **production-grade and scalable systems** using **Java, Spring Boot, Spring Security, JPA, and Microservices Architecture**
+- Expanding into **Fullstack Development** with **React, Next.js, TypeScript, and modern frontend ecosystems**
+- Student at **New Cairo Technological University**, majoring in **Information and Communications Technology (ICT)**
+- Hands-on industry experience with **JWT Authentication**, **REST APIs**, **Docker**, **CI/CD Pipelines**, **Message Brokers**, and **Event-Driven Systems**
+- Strong interest in **System Design**, **Clean Code**, **SOLID Principles**, and maintainable enterprise software
+- Built and contributed to real-world systems including **ERP Platforms**, **Inventory Systems**, **Property Management Systems**, and reusable backend libraries
+- Open to **collaborations**, open-source contributions, internships, and impactful engineering opportunities <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="28" />
+- Ask me about **Java, Spring Boot, Microservices, Backend Architecture, React, or scalable systems**
 - 🌐 Website: **https://el-seginy.me**
 - Reach me at: **ahmed0elseginy@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex business ideas into working software <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="24" />
+- ⚡ Fun fact: I enjoy transforming complex business requirements into reliable software solutions <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="24" />
 
 ---
 
