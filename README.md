@@ -6,24 +6,23 @@
 </h3>
 
 <p align="center">
-  🌐 <a href="https://el-seginy.me" target="_blank">el-seginy.me</a>
+   <a href="https://el-seginy.me" target="_blank">el-seginy.me</a>
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-- Passionate about **Backend Development** using **Java & Spring Boot**, and exploring **Fullstack Development** with **React, Next.js, Node.js**
-- Student at **New Cairo Technological University**, majoring in **Information and Communications Technology**
-- Experienced with **Spring Security**, **JWT**, **REST APIs**, **CI/CD**, and **Event-Driven Architecture**
-- I value writing **Clean Code**, following **SOLID principles**, and practicing **Scalable Software Architecture**
-- Open for **collaborations**, open-source contributions, and hackathons  
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="28" />
-- Ask me about **Java, Spring Boot, React, TypeScript, or backend architecture**
+- Backend Developer focused on building **scalable systems** using **Java, Spring Boot, Spring Security, JPA, and Microservice Architecture**
+- Expanding into **Fullstack Development** with **React, Next.js, TypeScript, and Node.js**
+- Student at **New Cairo Technological University**, specializing in **Information and Communications Technology**
+- Hands-on experience with **JWT Authentication**, **REST APIs**, **Docker**, **CI/CD**, **Messaging Systems**, and **Event-Driven Architecture**
+- Strong interest in **System Design**, **Clean Code**, **SOLID Principles**, and maintainable enterprise applications
+- Built real-world style projects such as **Property Management Systems**, **Task Management Platforms**, and modular backend systems
+- Open to **collaborations**, open-source contributions, internships, and challenging projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="28" />
+- Ask me about **Java, Spring Boot, Backend Architecture, React, or scalable application design**
 - 🌐 Website: **https://el-seginy.me**
 - Reach me at: **ahmed0elseginy@gmail.com**
-- ⚡ Fun fact: I believe curiosity is my biggest fuel  
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="24" />
+- ⚡ Fun fact: I enjoy turning complex business ideas into working software <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="24" />
 
 ---
 
@@ -48,9 +47,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="34" />
 </p>
 
+---
+ <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0elseginy&theme=dark&hide_langs_below=1" 
+    height="165"
+  />
+  <img 
+    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" 
+    height="165"
+  />
+</p>
 ---
 
 <p align="center">
