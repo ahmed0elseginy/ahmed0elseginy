@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Ahmed Mohamed El-Seginy</h1>
-
-<h3 align="center">
-  Software Engineer
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42" />
-</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
 <p align="center">
-   <a href="https://el-seginy.me" target="_blank">el-seginy.me</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=500&height=45&lines=Java+Backend+Engineer;Spring+Boot+Developer;Microservices+%26+Distributed+Systems;Building+Scalable+Backend+Systems;Always+Learning+and+Improving">
+  </a>
 </p>
 
----
+<h1 align="center">Hi, I'm Ahmed Mohamed El-Seginy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42" />
+</h1>
 
 ## 👨‍💻 About Me
 
@@ -21,7 +23,7 @@
 - Built and contributed to real-world systems including **ERP Platforms**, **Inventory Systems**, **Property Management Systems**, and reusable backend libraries
 - Open to **collaborations**, open-source contributions, internships, and impactful engineering opportunities <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="28" />
 - Ask me about **Java, Spring Boot, Microservices, Backend Architecture, React, or scalable systems**
-- 🌐 Website: **https://el-seginy.me**
+- 🌐 Website: **https://ahmed-el-seginy.vercel.app/**
 - Reach me at: **ahmed0elseginy@gmail.com**
 - ⚡ Fun fact: I enjoy transforming complex business requirements into reliable software solutions <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="24" />
 
@@ -69,3 +71,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="185" alt="Buy Me A Coffee" />
   </a>
 </p>
+
